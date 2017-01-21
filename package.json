@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "My personal blog.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": "git@github.com:andreiconstantinescu/blog.git",
+  "author": "Andrei Constantinescu <andrei@constantinescu.io>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^1.2.3"
+  }
+}
