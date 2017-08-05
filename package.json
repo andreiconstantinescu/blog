@@ -12,6 +12,6 @@
   "author": "Andrei Constantinescu <andrei@constantinescu.io>",
   "license": "MIT",
   "dependencies": {
-    "next": "^1.2.3"
+    "next": "^2.4.9"
   }
 }
